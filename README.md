@@ -35,16 +35,6 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
-<!-- 🧠 Machine Learning -->
-<h4>🧠 Machine Learning</h4>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=Scikit-Learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
-
 <!-- 💻 Programming Languages -->
 <h4>💻 Programming Languages</h4>
 <p>
@@ -55,6 +45,16 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+<!-- 🧠 Machine Learning -->
+<h4>🧠 Machine Learning</h4>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=Scikit-Learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 <!-- 🎨 Frontend -->
