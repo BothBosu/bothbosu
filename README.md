@@ -8,26 +8,29 @@
 
 🎸 I love playing guitar, 🧘‍♂️ practicing meditation, 📚 reading books, and 🧭 exploring new ideas.  
 
-🧠 I'm passionate about **AI**, **Buddhism**, and **helping people grow spiritually with the aid of technology**.
+🧠 I'm passionate about **AI**, **Buddhism**, and **helping people grow spiritually**.
 
 <h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/6915bboth" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" alt="Twitter / X" />
+<div align="left">
+  <a href="https://www.facebook.com/pitipat.gumphusiri/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook logo" />
   </a>
-  <a href="https://www.linkedin.com/in/pitipat-gumphusiri-5787b0196/?originalSubdomain=th" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://x.com/6915bboth" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/pitipat-gumphusiri-5787b0196/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://www.kaggle.com/lordpitipat" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="35" alt="Kaggle logo" />
   </a>
   <a href="https://medium.com/@pitipat-both" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="Medium logo" />
   </a>
   <a href="https://huggingface.co/BothBosu" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FFDD54&logoColor=black&style=for-the-badge" height="35" alt="Hugging Face logo" />
   </a>
-</p>
+</div>
 
 
 <h3 align="left">🛠️ Languages and Tools</h3>
@@ -97,5 +100,11 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
+<div align="left" style="display: flex; gap: 24px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bothbosu&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&theme=default" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bothbosu&show_icons=true&locale=en&layout=compact&card_width=350&langs_count=6&hide_border=false&theme=default" height="180" alt="Top Languages" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bothbosu&show_icons=true&locale=en&layout=compact" alt="bothbosu" /></p>
+
+
