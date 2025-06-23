@@ -92,6 +92,9 @@
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=flat-square&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOC_Analyst-1E90FF?style=flat-square&logo=security&logoColor=white"/>
 </p>
 
 <div align="left" style="display: flex; gap: 24px; flex-wrap: wrap;">
@@ -99,7 +102,9 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bothbosu&show_icons=true&locale=en&layout=compact&card_width=350&langs_count=6&hide_border=false&theme=default" height="180" alt="Top Languages" />
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/pitipat.both.png" alt="My Image Badge" />
+  <a href="https://tryhackme.com/p/pitipat.both" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pitipat.both.png" alt="TryHackMe Profile" />
+  </a>
 </div>
 
 
