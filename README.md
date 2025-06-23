@@ -4,11 +4,11 @@
 
 👨‍💻 I'm a Computer Science student from **Bangkok, Thailand** 🇹🇭  
 
-🗣️ I speak **4 languages**: Thai (Native)， English (Fluent)， Japanese (Intermediate )， Chinese (Intermediate)
+🗣️ I speak **4 languages**: Thai (Native)， English (Fluent)， Japanese (Intermediate)， Chinese (Intermediate)
 
-🎸 I love playing guitar, 🧘‍♂️ practicing meditation, 📚 reading books, and 🧭 exploring new ideas.  
+🎸 I love playing guitar, practicing meditation, reading books, playing turn-based strategy games, and exploring new ideas.  
 
-🧠 I'm passionate about **AI**, **Buddhism**, and **helping people grow spiritually**.
+🧠 I'm passionate about **AI**, **Buddhism**, and **Spirituality**.
 
 <h3 align="left">📫 Connect with me:</h3>
 <div align="left">
@@ -99,7 +99,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bothbosu&show_icons=true&locale=en&layout=compact&card_width=350&langs_count=6&hide_border=false&theme=default" height="180" alt="Top Languages" />
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/pitipat.both.png" alt="My TryHackMe Profile" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/pitipat.both.png" alt="My Image Badge" />
 </div>
 
 
