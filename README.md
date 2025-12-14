@@ -8,7 +8,7 @@
 
 🗣️ I speak **4 languages**: Thai (Native), English (Fluent), Japanese (Intermediate), Chinese (Intermediate)
 
-🎸 Fingerstyle Guitar player, 🧘‍♂️ meditation practitioner, 📚 reader
+🎸 Fingerstyle guitar player, 🧘‍♂️ meditation practitioner, 📚 reader
 
 🧠 Passionate about **AI**, **Buddhism**, and **building technology that improves lives**
 
