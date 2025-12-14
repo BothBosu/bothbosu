@@ -85,7 +85,9 @@
 <div align="left" style="display: flex; gap: 24px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=bothbosu&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&theme=default" height="180" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bothbosu&show_icons=true&locale=en&layout=compact&card_width=350&langs_count=6&hide_border=false&theme=default" height="180" alt="Top Languages" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bothbosu&theme=default&hide_border=false" height="180" alt="GitHub Streak" />
+
+  <a href="https://tryhackme.com/p/pitipat.both" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pitipat.both.png" alt="TryHackMe Profile" />
+  </a>
 </div>
